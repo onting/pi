@@ -29,7 +29,7 @@ int main()
 		printf("%10u, %Lf\n", epoch, pi);
 	}
 	
-	printf("\nPI calurated is: %Lf\n", pi);
+	printf("\nPI calcurated is: %Lf\n", pi);
 
 	return 0;
 }
